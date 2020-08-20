@@ -1,4 +1,4 @@
-# Ravage Ransomware ☠️
+# Ravage Ransomware 🐍 
 This is a simple program designed in Python,
 to learn about how some ransomware works, using AES symmetric encryption.
 Only for Linux systems.
