@@ -1,0 +1,7 @@
+requests
+pyfiglet
+progress
+cryptography
+colorama
+argparse
+
