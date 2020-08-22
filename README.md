@@ -1,8 +1,11 @@
 # Ravage Ransomware 
 
 This is a simple program designed in Python,
-to learn about how some ransomware works, using AES symmetric encryption. 
+to learn about how some ransomware works, using AES symmetric encryption.
+
 **The project is under development, any suggestion is welcome!**
+
+-------------
 
 ## How does it work ?
 Once run from the console, ravage checks all the system paths with a valid extension, adds them to a list, generates a text file with the affected items on the machine, and proceeds to encrypt each one.
@@ -20,7 +23,7 @@ In the case of using SMTP, create a Google account and in settings enable "Acces
 
 ## In Development
 - [x] Send logs to FTP and SMTP server.
-- [ ] Multithreading for fast encryption
+- [ ] Multithreading for fast encryption.
 - [ ] Support for Windows.
 - [ ] Send information to MySQL database.
 - [ ] Graphical Interfaces.
@@ -32,6 +35,7 @@ In the case of using SMTP, create a Google account and in settings enable "Acces
  
 ## Disclaimer
 Perform tests only on virtual machines, never run this on your main system.
+
 This program was made for educational purposes only. I am not responsible for damages.
  
  ## Screenshots
