@@ -22,7 +22,7 @@ When the program is executed again, only show the GUI, asking the key to retriev
 For security reasons and to avoid script kiddies, the key is stored on the victim machine.
 
 ## How to use it ?
-Edit the lines 87 and 88, change the boolean values to select the way in which the data will be sent.
+Edit the lines 67 and 68, change the boolean values to select the way in which the data will be sent.
 
 In the case of using SMTP, create a Google account and in settings enable "Access to less secure applications". Then insert the data of the configuration you want to use.
 
