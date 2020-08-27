@@ -1,7 +1,8 @@
 requests
 pyfiglet
-progress
 cryptography
 colorama
 argparse
+pymysql
+
 
